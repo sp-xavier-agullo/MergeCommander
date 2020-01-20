@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{06F2BFF6-FF6D-8A2C-E241-7705C67BEE45}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameBoard.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameBoard.cs" Line="29" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Merge Commander" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameBoard.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7165c37e-826c-4830-b610-121b84b5a56c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,987 @@
+fileFormatVersion: 2
+guid: 2ae409dc969e0402ba4f7858a0c2b0cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7546267004809856630
+    second: assets_mc_0
+  - first:
+      213: 2871699172124874507
+    second: assets_mc_1
+  - first:
+      213: -2806376705111521194
+    second: assets_mc_2
+  - first:
+      213: 187640498308159211
+    second: assets_mc_3
+  - first:
+      213: 4884474806639765211
+    second: assets_mc_4
+  - first:
+      213: 6813773074406258381
+    second: assets_mc_5
+  - first:
+      213: 7992963945197171792
+    second: assets_mc_6
+  - first:
+      213: 4676750402499958942
+    second: assets_mc_7
+  - first:
+      213: -4458145637830335642
+    second: assets_mc_8
+  - first:
+      213: -6665421925984726353
+    second: assets_mc_9
+  - first:
+      213: -3464960280172745903
+    second: assets_mc_10
+  - first:
+      213: 6976731717734919691
+    second: assets_mc_11
+  - first:
+      213: 3442172541301907597
+    second: assets_mc_12
+  - first:
+      213: 8086791469220226216
+    second: assets_mc_13
+  - first:
+      213: -379795120498618663
+    second: assets_mc_14
+  - first:
+      213: -5723104509594643129
+    second: assets_mc_15
+  - first:
+      213: -7667638871115305131
+    second: assets_mc_16
+  - first:
+      213: 815316200633415671
+    second: assets_mc_17
+  - first:
+      213: -4496626421275234750
+    second: assets_mc_18
+  - first:
+      213: -5923732675792427764
+    second: assets_mc_19
+  - first:
+      213: -4216732398351986074
+    second: assets_mc_20
+  - first:
+      213: -4409981917865594392
+    second: assets_mc_21
+  - first:
+      213: 4595525713922964671
+    second: assets_mc_22
+  - first:
+      213: 2602860813876385302
+    second: assets_mc_23
+  - first:
+      213: -6713773263450539438
+    second: assets_mc_24
+  - first:
+      213: -2154643382166155345
+    second: assets_mc_25
+  - first:
+      213: -1840596352965312161
+    second: assets_mc_26
+  - first:
+      213: 7483432451335194041
+    second: assets_mc_27
+  - first:
+      213: 4621700481241398752
+    second: assets_mc_28
+  - first:
+      213: -4686561965461065406
+    second: assets_mc_29
+  - first:
+      213: 5947538728143611977
+    second: assets_mc_30
+  - first:
+      213: 2812106386116115428
+    second: assets_mc_31
+  - first:
+      213: 3597179308933682551
+    second: assets_mc_32
+  - first:
+      213: -1442518643916984591
+    second: assets_mc_33
+  - first:
+      213: 6892417709348971395
+    second: assets_mc_34
+  - first:
+      213: 1544415524846842681
+    second: assets_mc_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assets_mc_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1857
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769265ddacd0c4ed487e91016e0ccd21
+      internalID: -7546267004809856630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1857
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d716f833ce245bf9d81ce05caf7852
+      internalID: 2871699172124874507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1857
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad01c021ed84f5294f4d0350178257
+      internalID: -2806376705111521194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1854
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8320d15916a43e5a35da82bb5cf113
+      internalID: 187640498308159211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_4
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1854
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55b468ba67b64334843cedaa3bf08e3
+      internalID: 4884474806639765211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_5
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1854
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ee8f264df5c47a39f49fab97df4aaa
+      internalID: 6813773074406258381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1670
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0fbeda44e8342f5b6fde87c96cbcfc
+      internalID: 7992963945197171792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1670
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60647cad5a25b4e8097b4189d4a685b8
+      internalID: 4676750402499958942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1670
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc40bd8bd27849a4a89719f08b317ad
+      internalID: -4458145637830335642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1671
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb78e868852a84337a48d070dded6954
+      internalID: -6665421925984726353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1671
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183e6164fb46c459e898329910c72024
+      internalID: -3464960280172745903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1671
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d18c1beda0495abd2236d0723cac2
+      internalID: 6976731717734919691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_12
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1854
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b2c328ef06c4dd4bc8d75020957d57
+      internalID: 3442172541301907597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_13
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1854
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36185a8e581ee4a1e8bea880ac733b6e
+      internalID: 8086791469220226216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_14
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1854
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d84c95678272431ebcb3880a836fddc
+      internalID: -379795120498618663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_15
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1854
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabd4c8e950634776903ec6b00c0b147
+      internalID: -5723104509594643129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1488
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae2619c654c94080a4e409eb44679ab
+      internalID: -7667638871115305131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1315
+        width: 159
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9183cb47bdba4a70a5d18846af2adb2
+      internalID: 815316200633415671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1140
+        width: 159
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177fe923838a340d794ec3bd4e289dc6
+      internalID: -4496626421275234750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 950
+        width: 159
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6120dec6110b443eeb15e9b4a7169602
+      internalID: -5923732675792427764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1315
+        width: 172
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e52b66cc3534f97abbc85be915a993
+      internalID: -4216732398351986074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1140
+        width: 158
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de550f03e56645e0a21fd5bb8ed2f9f
+      internalID: -4409981917865594392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 950
+        width: 158
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a76cf8a7d354484090e247c2ae40fb0
+      internalID: 4595525713922964671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1315
+        width: 159
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ed745e682b24492857d7d3f44cec1a
+      internalID: 2602860813876385302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1140
+        width: 159
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2692b784616424c64861a7b7627fb537
+      internalID: -6713773263450539438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 948
+        width: 168
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af565e63a1ee64b699256050e4a4190a
+      internalID: -2154643382166155345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_26
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1488
+        width: 157
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402be79acdeb84add932cc69acb2aec0
+      internalID: -1840596352965312161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_27
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1315
+        width: 157
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe074d15cff41bf8ba34b112f3307c
+      internalID: 7483432451335194041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1140
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3528abda5692b41a6b6629447551902f
+      internalID: 4621700481241398752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_29
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 950
+        width: 157
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4b1a761f89487a97f9c2dc2db2530
+      internalID: -4686561965461065406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_30
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1315
+        width: 170
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4b7f09e13d9427087e985af00b5a01
+      internalID: 5947538728143611977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_31
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1140
+        width: 158
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9562579552ea4d68b92688295380719
+      internalID: 2812106386116115428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_32
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 950
+        width: 158
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2370d0fcf577348d282e6ddf08761df6
+      internalID: 3597179308933682551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_33
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1315
+        width: 158
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca49be0a47a5432692bdb10bf84d22a
+      internalID: -1442518643916984591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_34
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1140
+        width: 158
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7053d8c14c44bc785b5eccbd655bdf
+      internalID: 6892417709348971395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_mc_35
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 948
+        width: 169
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d4f922a24f6476b83b2bf0178816d8
+      internalID: 1544415524846842681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 89bf5ac9ae7bc406980797c7496e128a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
