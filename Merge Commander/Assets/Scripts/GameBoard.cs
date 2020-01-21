@@ -12,28 +12,49 @@ public class GameBoard : MonoBehaviour
 
     [SerializeField] float tileWidth;
 
+    private LogicTile[,] logicTileArray;
+
     // Start is called before the first frame update
     void Start()
     {
+
+        LogicTile[,] logicTileArray = new LogicTile[numTilesX,numTilesY];
+        int tileColor = 1;
+
+        // Populate board and tile array
+
         for (int i = 0; i < numTilesX; i++)
         {
             for (int j = 0; j < numTilesY; j++)
             {
 
             GameObject myTile = Instantiate(tilePrefab,transform);
-            myTile.transform.localPosition = new Vector3(i * tileWidth, j * tileWidth );
+
+            myTile.transform.localPosition = new Vector3((tileWidth / 2) + i * tileWidth, -(tileWidth / 2) + j * -tileWidth);
+
+            // Tinting even tiles
+
+            if (tileColor % 2 == 0)
+                {
+                    myTile.transform.GetChild(0).GetComponent<SpriteRenderer>().color = new Color(0.8f, 0.8f, 0.8f, 1);
+                }
+
+            tileColor = i+j;
+
+            // Filling logic tile array
+
+            logicTileArray[i, j] = myTile.GetComponent<LogicTile>();
+
+
             }
         }
 
+        //Positioning the whole board
+
         float offsetX = 0-((tileWidth * numTilesX) / 2);
-        float offsetY = 0-((tileWidth * numTilesY) / 2);
+        float offsetY = 0+((tileWidth * numTilesY) / 2);
 
         transform.localPosition = new Vector3(offsetX, offsetY);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

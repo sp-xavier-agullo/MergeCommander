@@ -234,8 +234,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tilePrefab: {fileID: 2643428583341151670, guid: 0adf6fc68f29d40c1b008fb20dd8c966,
     type: 3}
-  numTilesX: 15
-  numTilesY: 10
+  numTilesX: 13
+  numTilesY: 9
   tileWidth: 1.65
 --- !u!4 &1030422324
 Transform:
